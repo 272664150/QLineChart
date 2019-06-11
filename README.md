@@ -1,2 +1,1 @@
-# QLineChart
-网贷类App折线图-月月升、季季升
+![QLineChart gif](https://github.com/272664150/QLineChart/blob/master/screenshots/1.gif)
